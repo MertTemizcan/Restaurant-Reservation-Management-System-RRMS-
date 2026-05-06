@@ -53,6 +53,5 @@ Mert Temizcan
 Ensar Eyüp Kılıç
 Cenker Akmaz
 Koray Bağış
-Users: Personel rolleri, giriş bilgileri ve yetki seviyeleri.
 
 Products: Menü içerikleri, fiyatlandırma ve görsel yolları.
