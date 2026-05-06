@@ -53,5 +53,3 @@ Mert Temizcan
 Ensar Eyüp Kılıç
 Cenker Akmaz
 Koray Bağış
-
-Products: Menü içerikleri, fiyatlandırma ve görsel yolları.
